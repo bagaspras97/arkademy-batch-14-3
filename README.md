@@ -5,4 +5,4 @@
 
 1. JSON (JavaScript Object Notation) adalah sebuah format data yang digunakan untuk pertukaran dan penyimpanan data.
 6. -nomor 6 menggunakan nama store
-   -SS nomor 6 lihat di file 6.ss
+   -SS nomor 6 lihat di issues dengan nama readme.md
