@@ -1,4 +1,4 @@
-# arkademy-batch-3
+# arkademy-batch-14-3
 
 -untuk mengerjakan test ini saya menggunakan notepade++ sebagai softwarenya
 -untuk menjalankan soal 1-5 cukup copas isi file nya ke https://es6console.com/ lalu di run
