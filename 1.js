@@ -37,7 +37,7 @@ var biodata =
   
 ],
 
-"interest_in_coding" : true,
+"interest_in_coding" : true
   
 };
 
